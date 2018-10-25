@@ -9,7 +9,7 @@ html, body{
 }
 @font-face {
   font-family: soloFont;
-  src: url(font/Solo.ttf);
+  src: url(/font/Solo.ttf);
 }
 
 h1{
