@@ -70,4 +70,10 @@ a{
 #scroll{
   font-size: 30px;
 }
+.container{
+  margin-top: 30vh;
+  margin-left: 25vw;
+    width: 50%;
+    height: 50%;
+}
 }
