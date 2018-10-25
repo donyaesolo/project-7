@@ -1,0 +1,58 @@
+html, body{
+  padding: 0px;
+  margin: 0px;
+}
+/*Enter Page*/
+#background{
+  height: 100%;
+  background-image: linear-gradient(145deg, #c7e4f0, #f0c7d0);
+}
+@font-face {
+  font-family: soloFont;
+  src: url(font/solo.ttf);
+}
+
+h1{
+  font-family: soloFont;
+}
+a{
+  font-size: 40px;
+  font-family: soloFont;
+  color: black;
+  text-decoration: none;
+}
+
+.container {
+  width: 500px;
+  height: 200px;
+  border: 1px solid white;
+  text-align: center;
+  padding: 10% 0;
+  margin-top: 30vh;
+  margin-left: 30vw;
+}
+
+.button{
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+  width: 200px;
+  margin-left: 20px
+  height: 60px;
+  background-color: white;
+}
+
+
+/*Homepage*/
+#homepage{
+  height: 100%;
+  background-image: linear-gradient(145deg, #c7f0e7, #e7c7f0);
+}
+.header{
+  background-color: white;
+  padding: 5px;
+  height: 100px;
+}
+#scroll{
+  font-size: 50px;
+}
